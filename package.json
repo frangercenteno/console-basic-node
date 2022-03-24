@@ -1,0 +1,29 @@
+{
+  "name": "node-console-basic",
+  "version": "1.0.0",
+  "description": "Node Console Basic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frangercenteno/console-basic-node.git"
+  },
+  "keywords": [
+    "Node",
+    "Basic",
+    "Console",
+    "yargs"
+  ],
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "author": "Franger Centeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frangercenteno/console-basic-node/issues"
+  },
+  "homepage": "https://github.com/frangercenteno/console-basic-node#readme"
+}
